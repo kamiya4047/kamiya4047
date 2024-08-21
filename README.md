@@ -1,5 +1,6 @@
 <p align="center">
   <img src="github-metrics.svg">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nuxtjs,vue,react,tailwind,pinia,ts,js,rust,cs,dotnet,py,kotlin,java,flutter,dart,tauri,electron,nodejs,bun,vscode&perline=5" align="top">
 </p>
 <p align="center">
