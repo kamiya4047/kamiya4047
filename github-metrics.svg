@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -223,7 +223,7 @@ Like cats.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    653 views in last two weeks
+                                    621 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -245,14 +245,14 @@ Like cats.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.4801685648349" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="157.4801685648349" y="0" width="83.39754318695921" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="240.8777117517941" y="0" width="63.41089509536574" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="304.2886068471598" y="0" width="41.39266628464323" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="345.68127313180304" y="0" width="35.204601749158456" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="380.8858748809615" y="0" width="31.92716728242587" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="412.8130421633874" y="0" width="29.83207989413377" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="442.6451220575212" y="0" width="17.354877942478822" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.27571867791627" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="157.27571867791627" y="0" width="83.28927166026953" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="240.56499033818582" y="0" width="63.925770069083605" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="304.4907604072694" y="0" width="41.338927924961" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="345.82968833223043" y="0" width="35.158897093694705" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="380.9885854259251" y="0" width="31.885717582441355" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="412.87430300836644" y="0" width="29.793350158088366" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="442.6676531664548" y="0" width="17.33234683354516" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -264,7 +264,7 @@ Like cats.</div>
                                 JavaScript
                             </div>
                             <small>
-                                <div>34.23%</div>
+                                <div>34.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -275,7 +275,7 @@ Like cats.</div>
                                 TypeScript
                             </div>
                             <small>
-                                <div>13.78%</div>
+                                <div>13.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@ Like cats.</div>
                                 Vue
                             </div>
                             <small>
-                                <div>7.65%</div>
+                                <div>7.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,7 +297,7 @@ Like cats.</div>
                                 Pug
                             </div>
                             <small>
-                                <div>6.49%</div>
+                                <div>6.48%</div>
                             </small>
                         </div>
                     </section>
@@ -310,7 +310,7 @@ Like cats.</div>
                                 Dart
                             </div>
                             <small>
-                                <div>18.13%</div>
+                                <div>18.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -321,7 +321,7 @@ Like cats.</div>
                                 C#
                             </div>
                             <small>
-                                <div>9%</div>
+                                <div>8.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -332,7 +332,7 @@ Like cats.</div>
                                 CSS
                             </div>
                             <small>
-                                <div>6.94%</div>
+                                <div>6.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -377,7 +377,7 @@ Like cats.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~33 coding hours recorded
+                            ~24 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -397,7 +397,7 @@ Like cats.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~7 hours of coding per day
+                            ~5 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -419,13 +419,18 @@ Like cats.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">vrcbook</span>
-                                <div class="bar" style="width: 79.384%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">99%</span>
+                                <div class="bar" style="width: 78.576%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">98%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">scheduler</span>
-                                <div class="bar" style="width: 0.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">web</span>
+                                <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -434,27 +439,27 @@ Like cats.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 73.52799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 75.45599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 1.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.1359999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 1.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 0.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 0.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">CSS</span>
+                                <div class="bar" style="width: 0.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -463,7 +468,7 @@ Like cats.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 09:02:14 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 09:07:46 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
