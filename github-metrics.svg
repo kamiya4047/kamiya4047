@@ -223,7 +223,7 @@ Like cats.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    552 views in last two weeks
+                                    487 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -245,14 +245,14 @@ Like cats.</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.1752437682822" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="156.1752437682822" y="0" width="82.70648777936081" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="238.88173154764303" y="0" width="66.69714352746362" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="305.5788750751066" y="0" width="41.049675055191855" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="346.6285501302985" y="0" width="34.912886556103366" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="381.5414366864018" y="0" width="31.66260982957192" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="413.20404651597374" y="0" width="29.584882922341297" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="442.78892943831505" y="0" width="17.211070561684952" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.7089925845185" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="155.7089925845185" y="0" width="82.45957285929012" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="238.16856544380863" y="0" width="67.87132400564516" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="306.0398894494538" y="0" width="40.92712388046153" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="346.96701332991535" y="0" width="34.808656370238936" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="381.7756697001543" y="0" width="31.56808313662186" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="413.34375283677616" y="0" width="29.49655914994803" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="442.84031198672415" y="0" width="17.159688013275858" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -264,7 +264,7 @@ Like cats.</div>
                                 JavaScript
                             </div>
                             <small>
-                                <div>33.95%</div>
+                                <div>33.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -275,7 +275,7 @@ Like cats.</div>
                                 TypeScript
                             </div>
                             <small>
-                                <div>14.5%</div>
+                                <div>14.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -286,7 +286,7 @@ Like cats.</div>
                                 Vue
                             </div>
                             <small>
-                                <div>7.59%</div>
+                                <div>7.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,7 +297,7 @@ Like cats.</div>
                                 Pug
                             </div>
                             <small>
-                                <div>6.43%</div>
+                                <div>6.41%</div>
                             </small>
                         </div>
                     </section>
@@ -310,7 +310,7 @@ Like cats.</div>
                                 Dart
                             </div>
                             <small>
-                                <div>17.98%</div>
+                                <div>17.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -321,7 +321,7 @@ Like cats.</div>
                                 C#
                             </div>
                             <small>
-                                <div>8.92%</div>
+                                <div>8.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -332,7 +332,7 @@ Like cats.</div>
                                 CSS
                             </div>
                             <small>
-                                <div>6.88%</div>
+                                <div>6.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -343,7 +343,7 @@ Like cats.</div>
                                 HTML
                             </div>
                             <small>
-                                <div>3.74%</div>
+                                <div>3.73%</div>
                             </small>
                         </div>
                     </section>
@@ -416,27 +416,27 @@ Like cats.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">vrcbook</span>
-                                <div class="bar" style="width: 62.144000000000005%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">78%</span>
+                                <div class="bar" style="width: 64.944%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">81%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vue-project</span>
-                                <div class="bar" style="width: 9.568000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">scheduler</span>
-                                <div class="bar" style="width: 5.792000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 10%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">my-app</span>
-                                <div class="bar" style="width: 2.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.5519999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">scheduler</span>
+                                <div class="bar" style="width: 2.4480000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">web</span>
-                                <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -446,27 +446,22 @@ Like cats.</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 69.456%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">87%</span>
+                                <div class="bar" style="width: 71.744%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue.js</span>
-                                <div class="bar" style="width: 7.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 2.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -475,7 +470,7 @@ Like cats.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2025, 08:59:32 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2025, 08:58:17 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
