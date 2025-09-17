@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: kamiya10
+          user: kamiya4047
           config_timezone: Asia/Taipei
           template: classic
           repositories_affiliations: owner, collaborator
